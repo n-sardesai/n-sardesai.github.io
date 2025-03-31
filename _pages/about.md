@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a <b>medical student</b> at the University of Cambridge, with an intercalated Bachelor’s degree in *Engineering*. My work sits at the intersection of medicine and technology, focusing on health data science, AI, and medical devices. I have conducted research at Harvard and Cambridge, worked in medical consulting — both at a global firm and freelance — and presented and published internationally.
+I am studying <b>Medicine</b> at the University of Cambridge, with an intercalated Bachelor’s degree in <b>Engineering</b>. My work sits at the intersection of medicine and technology, focusing on health data science, AI, and medical devices. I have conducted research at Harvard and Cambridge, worked in medical consulting — both at a global firm and freelance — and presented and published internationally.
 
 Beyond research, I lead the Cambridge University MedTech Society and the Cambridge University AI in Medicine Society, organising events, fostering innovation, and connecting students with industry leaders. I am passionate about using technology to improve patient care, advance medical science, and bridge the gap between healthcare and engineering.
 
