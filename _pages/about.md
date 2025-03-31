@@ -6,6 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a <b>medical student</b> at the University of Cambridge, with an intercalated Bachelor’s degree in *Engineering*. My work sits at the intersection of medicine and technology, focusing on health data science, AI, and medical devices. I have conducted research at Harvard and Cambridge, worked in medical consulting — both at a global firm and freelance — and presented and published internationally.
+
+Beyond research, I lead the Cambridge University MedTech Society and the Cambridge University AI in Medicine Society, organising events, fostering innovation, and connecting students with industry leaders. I am passionate about using technology to improve patient care, advance medical science, and bridge the gap between healthcare and engineering.
+
+I am also deeply committed to education. As a Supervisor for the Cambridge Physiology and Medical Statistics courses, I support students in developing a strong foundation in these subjects. Additionally, I have delivered hundreds of hours of tutoring for medical school entry, guiding applicants through admissions tests, interviews, and applications. I also co-lead the Emmanuel Widening Access Programme for Medicine, working to make medical education more accessible.
 
 Publications
 ======
@@ -15,9 +20,6 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
 
 **Interview on the 'Diary of a Future CEO' Podcast**
 
