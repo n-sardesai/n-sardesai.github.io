@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Profile"
+title: "Neil Sardesai, BA (Hons), ATCL"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Neil Sardesai, BA (Hons), ATCL
-======
+
 Hi! My name's Neil, and I am currently studying <b>Medicine</b> at the University of Cambridge, with an intercalated Bachelor’s degree in <b>Engineering</b>. My work sits at the intersection of medicine and technology, focusing on health data science, AI, and medical devices. I have conducted research at <b>Harvard University</b> and the <b>University of Cambridge</b>, worked in <b>medical consulting</b> — both at a global firm and freelance — and presented and published internationally.
 
 Beyond research, I lead the <b>Cambridge University MedTech Society</b> and the <b>Cambridge University AI in Medicine Society</b>, organising events, fostering innovation, and connecting students with industry leaders. I am passionate about using technology to improve patient care, advance medical science, and bridge the gap between healthcare and engineering.
