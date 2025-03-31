@@ -14,9 +14,6 @@ Beyond research, I lead the <b>Cambridge University MedTech Society</b> and the 
 
 I am also deeply committed to education. As a <b>Supervisor</b> for the Cambridge Physiology and Medical Statistics courses, I support students in developing a strong foundation in these subjects. Additionally, I have delivered 100s of hours of tutoring for medical school entry, guiding applicants through admissions tests, interviews, and applications. I also co-lead the <b>Emmanuel Widening Access Programme for Medicine</b>, working to make medical education more accessible.
 
-Projects
-======
-
 Consulting
 ======
 <ul><b>Analyst Intern</b> at Costello Medical </i>(2024)</i> </ul>
@@ -30,6 +27,8 @@ Talks
 **Interview on the 'Diary of a Future CEO' Podcast**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xX3UBbDnRVQ" style="border: 5px solid black;" allowfullscreen></iframe>
+
+<br></br>
 
 Publications
 ======
