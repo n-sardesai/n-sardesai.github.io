@@ -11,7 +11,7 @@ Hi! My name's Neil, and I am currently studying <b>Medicine</b> at the Universit
 
 Beyond research, I lead the <b>Cambridge University MedTech Society</b> and the <b>Cambridge University AI in Medicine Society</b>, organising events, fostering innovation, and connecting students with industry leaders. I am passionate about using technology to improve patient care, advance medical science, and bridge the gap between healthcare and engineering.
 
-I am also deeply committed to education. As a <b>Supervisor</b> for the Cambridge Physiology and Medical Statistics courses, I support students in developing a strong foundation in these subjects. Additionally, I have delivered 100s of hours of tutoring for medical school entry, guiding applicants through admissions tests, interviews, and applications. I also co-lead the <b>Emmanuel Widening Access Programme for Medicine</b>, working to make medical education more accessible.
+I am also deeply committed to education. As a <b>Supervisor</b> for the Cambridge Physiology and Medical Statistics courses, I support students in developing a strong foundation in these subjects. Additionally, I have delivered <b>100s of hours of tutoring</b> for medical school entry, guiding applicants through admissions tests, interviews, and applications. I also co-lead the <b>Emmanuel Widening Access Programme for Medicine</b>, working to make medical education more accessible.
 
 Consulting
 ======
