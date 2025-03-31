@@ -19,9 +19,10 @@ Projects
 
 Consulting
 ======
-<ul><b>Analyst Intern</b> at Costello Medical (2024) </ul>
-<ul><b>Board Member</b> on the MeditSimple AI Ethics Advisory Board (Present)</ul>
-<ul><b>Panel Member</b> on the NIHR Health Data Access Panel, Cambridge (Present)</ul>
+<ul><b>Analyst Intern</b> at Costello Medical </i>(2024)</i> </ul>
+<ul><b>Research</b> at Lotus Health AI </i>(Present)</i> </ul>
+<ul><b>Board Member</b> on the MeditSimple AI Ethics Advisory Board <i>(Present)</i></ul>
+<ul><b>Panel Member</b> on the NIHR Cambridge Health Data Access Panel <i>(Present)</i></ul>
 
 Talks
 ======
