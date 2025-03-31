@@ -8,11 +8,27 @@ redirect_from:
 ---
 Neil Sardesai, BA (Hons), ATCL
 ======
-Hi! My name's Neil, and I am currently studying <b>Medicine</b> at the University of Cambridge, with an intercalated Bachelor’s degree in <b>Engineering</b>. My work sits at the intersection of medicine and technology, focusing on health data science, AI, and medical devices. I have conducted research at Harvard and Cambridge, worked in medical consulting — both at a global firm and freelance — and presented and published internationally.
+Hi! My name's Neil, and I am currently studying <b>Medicine</b> at the University of Cambridge, with an intercalated Bachelor’s degree in <b>Engineering</b>. My work sits at the intersection of medicine and technology, focusing on health data science, AI, and medical devices. I have conducted research at <b>Harvard University</b> and the <b>University of Cambridge</b>, worked in <b>medical consulting</b> — both at a global firm and freelance — and presented and published internationally.
 
-Beyond research, I lead the Cambridge University MedTech Society and the Cambridge University AI in Medicine Society, organising events, fostering innovation, and connecting students with industry leaders. I am passionate about using technology to improve patient care, advance medical science, and bridge the gap between healthcare and engineering.
+Beyond research, I lead the <b>Cambridge University MedTech Society</b> and the <b>Cambridge University AI in Medicine Society</b>, organising events, fostering innovation, and connecting students with industry leaders. I am passionate about using technology to improve patient care, advance medical science, and bridge the gap between healthcare and engineering.
 
-I am also deeply committed to education. As a Supervisor for the Cambridge Physiology and Medical Statistics courses, I support students in developing a strong foundation in these subjects. Additionally, I have delivered hundreds of hours of tutoring for medical school entry, guiding applicants through admissions tests, interviews, and applications. I also co-lead the Emmanuel Widening Access Programme for Medicine, working to make medical education more accessible.
+I am also deeply committed to education. As a <b>Supervisor</b> for the Cambridge Physiology and Medical Statistics courses, I support students in developing a strong foundation in these subjects. Additionally, I have delivered 100s of hours of tutoring for medical school entry, guiding applicants through admissions tests, interviews, and applications. I also co-lead the <b>Emmanuel Widening Access Programme for Medicine</b>, working to make medical education more accessible.
+
+Projects
+======
+
+Consulting
+======
+<ul><b>Analyst Intern</b> at Costello Medical (2024) </ul>
+<ul><b>Board Member</b> on the MeditSimple AI Ethics Advisory Board (Present)</ul>
+<ul><b>Panel Member</b> on the NIHR Health Data Access Panel, Cambridge (Present)</ul>
+
+Talks
+======
+
+**Interview on the 'Diary of a Future CEO' Podcast**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xX3UBbDnRVQ" style="border: 5px solid black;" allowfullscreen></iframe>
 
 Publications
 ======
@@ -20,12 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
 
-**Interview on the 'Diary of a Future CEO' Podcast**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xX3UBbDnRVQ" frameborder="3" allowfullscreen></iframe>
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
