@@ -26,7 +26,7 @@ Talks
 
 **Interview on the 'Diary of a Future CEO' Podcast**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xX3UBbDnRVQ" style="border: 5px solid black;" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xX3UBbDnRVQ" style="border: 1px solid black;" allowfullscreen></iframe>
 
 <br></br>
 
