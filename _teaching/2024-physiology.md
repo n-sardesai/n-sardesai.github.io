@@ -8,13 +8,4 @@ date: 2024-09-01
 location: "Cambridge, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I am a formal supervisor for the physiology course for 1st year medical students and biological natural sciences students. I run weekly supervisions and seminars on animal physiology, write and mark essays and answer any questions that may arise.
