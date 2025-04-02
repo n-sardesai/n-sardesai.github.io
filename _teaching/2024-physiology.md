@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-physiology
 venue: "University of Cambridge, Department of Physiology, Development and Neuroscience"
-date: 2024-2025
+date: 2024-09-01
 location: "Cambridge, UK"
 ---
 
