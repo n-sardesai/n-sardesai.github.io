@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Online"
 ---
 
-Please get in touch if you are interested in tutoring services.
+If you are seeking a tutor, please feel free to get in touch! I am currently accepting new students at a rate of £57 per hour.
 
 Heading 1
 ======
