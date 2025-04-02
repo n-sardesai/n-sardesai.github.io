@@ -13,7 +13,7 @@ Beyond research, I lead the <b>Cambridge University MedTech Society</b> and the 
 
 I am also deeply committed to education. As a <b>Supervisor</b> for the Cambridge Physiology and Medical Statistics courses, I support students in developing a strong foundation in these subjects. Additionally, I have delivered <b>100s of hours of tutoring</b> for medical school entry, guiding applicants through admissions tests, interviews, and applications. I also co-lead the <b>Emmanuel Widening Access Programme for Medicine</b>, working to make medical education more accessible.
 
-Consulting
+Medical Consulting
 ======
 <ul><b>Analyst Intern</b> at Costello Medical <i>(2024)</i> </ul>
 <ul><b>Research</b> at Lotus Health AI <i>(Present)</i> </ul>
