@@ -1,6 +1,6 @@
 ---
-title: "Analyst Intern"
-excerpt: "Costello Medical"
+title: "Analyst Intern at Costello Medical"
+excerpt: "MedTech & Market Access"
 collection: consulting
 ---
 
