@@ -3,7 +3,7 @@ title: "Supervisor (Physiology)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-physiology
-venue: "University of Cambridge, Department"
+venue: "University of Cambridge, Department of Physiology, Development and Neuroscience"
 date: 2024-2025
 location: "Cambridge, UK"
 ---
