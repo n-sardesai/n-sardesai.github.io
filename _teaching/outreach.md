@@ -8,13 +8,4 @@ date: 2024-07-01
 location: "Cambridge, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I am the co-lead and founder of the Emmanuel Widening Access Programme for Medicine, a new initiative by Emmanuel College, Cambridge to support applications from students of disadvantaged backgrounds.
